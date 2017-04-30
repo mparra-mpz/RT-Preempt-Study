@@ -1,2 +1,2 @@
 # RT-Preempt-Study
-Repository for RT-Preempt study. Check wiki for more details.
+Repository for RT-Preempt study. Check the wiki for more details.
